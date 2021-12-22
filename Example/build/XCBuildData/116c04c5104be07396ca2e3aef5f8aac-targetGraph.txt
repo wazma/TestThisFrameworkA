@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+FBSnapshotTestCase in Pods
+TestThisFrameworkA in Pods
+Pods-TestThisFrameworkA_Example in Pods, depends on:
+TestThisFrameworkA in Pods (explicit)
+Pods-TestThisFrameworkA_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-TestThisFrameworkA_Example in Pods (explicit)
